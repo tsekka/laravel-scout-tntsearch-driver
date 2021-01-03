@@ -13,7 +13,7 @@
         "email": "info@tntstudio.hr"
     }],
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.1|>=8",
         "teamtnt/tntsearch": "2.*",
         "laravel/scout": "7.*|^8.0|^8.3",
         "illuminate/bus": "~5.4|^6.0|^7.0|^8.0",
